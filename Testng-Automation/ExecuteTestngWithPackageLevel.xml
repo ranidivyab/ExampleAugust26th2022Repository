@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+	<test name="Users and Products">
+		<packages>
+			<package name="com.users"></package>
+			<package name="com.products"></package>
+		</packages>
+	</test>
+</suite>
